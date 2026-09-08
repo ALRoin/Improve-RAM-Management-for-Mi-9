@@ -1,5 +1,6 @@
 # v1.0.2
-* Changed ZRAM compression to ZSTD
+* Changed ZRAM compression to ZSTD on crDroid
+* Changed ZRAM compression to LZ4 on Infinity X
 * Made some changes to the script
 * Made some changes to the WebUI
   
