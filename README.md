@@ -1,5 +1,5 @@
-# A KernelSU module to Improve RAM Management for Mi 9 on crDroid 12
-> ⚠️ **IMPORTANT:** This module is designed specifically for the **Xiaomi Mi 9 running crDroid 12**. Don't expect the same functionality, performance, or results on other devices or ROMs.
+# A KernelSU module to Improve RAM Management for Mi 9 on crDroid 12.11, AxionOS 2.8 and Infinity X 3.12
+> ⚠️ **IMPORTANT:** This module is designed specifically for the **Xiaomi Mi 9 running crDroid 12.11, AxionOS 2.8 and Infinity X 3.12**. Don't expect the same functionality, performance, or results on other devices or ROMs.
 
 ## What This Module Does :
 #### Modify Virtual Memory settings
