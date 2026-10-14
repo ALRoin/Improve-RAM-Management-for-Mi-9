@@ -6,6 +6,7 @@
 #### Customize How Low Memory Killer Daemon (LMKD) Works
 #### Change ZRAM size
 
+## These options are only available in the module for crDroid :
 ### ⚖️BALANCED :
 Designed for better multitasking performance.
 
